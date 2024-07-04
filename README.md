@@ -1,6 +1,8 @@
 ---
 title: "Predicting Taxi Trip Duration in NYC"
 ---
+Description:
+This project aims to predict the duration of taxi trips in New York City using machine learning models. It leverages a dataset containing taxi trip records with details such as pickup/dropoff locations, timestamps, and trip duration. Two primary models, Linear Regression and Random Forest, were trained and evaluated based on their performance in predicting trip durations.
 
 Dataset: `nyc-taxi-trip-duration.zip` (train.zip)
 - 1,458,644 records
